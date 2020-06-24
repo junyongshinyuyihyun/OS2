@@ -1,0 +1,529 @@
+Script started on 廿廿年六月廿三日 (週二) 八時58分一秒
+]0;root@r08922164-VirtualBox: /home/r08922164/Documents/OS_final/Download/test_3root@r08922164-VirtualBox:/home/r08922164/Documents/OS_final/Download/test_3# ba sh ./start.sh 
+input_val: 1 iterate: 1 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 1.345900 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 1.364600 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 2 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.742500 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.761000 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 3 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.752900 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.758800 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 4 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.677100 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.680300 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 5 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.712600 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.754200 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 6 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.991300 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.986100 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 7 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.674100 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.677400 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 8 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.949300 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.619800 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 9 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 1.087600 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 1.090200 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 10 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.749700 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.753800 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 11 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.700900 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.702000 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 12 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.884100 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.892000 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 13 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.593900 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.598500 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 14 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.679500 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.690000 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 15 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.735200 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.729900 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 16 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.705900 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.704000 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 17 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.806500 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.851600 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 18 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.723600 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.733300 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 19 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.792600 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.803200 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 20 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.770700 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.776100 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 21 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.777400 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.794400 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 22 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.887800 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.903600 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 23 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.711900 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.713000 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 24 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.794400 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.797600 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 25 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.786500 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.748900 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 26 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.654300 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.647100 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 27 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.646700 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.659500 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 28 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.667400 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.660300 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 29 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.704600 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.720200 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 30 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 1.008500 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 1.003900 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 31 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.666500 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.697400 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 32 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 950.749200 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 950.792700 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 33 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.717300 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.742000 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 34 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 1.033200 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 1.048300 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 35 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.902300 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.909400 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 36 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.804500 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.809900 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 37 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.992500 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 1.001800 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 38 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.728200 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.742000 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 39 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.970900 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.923900 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 40 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.855100 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.848500 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 41 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 1.072200 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 1.083800 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 42 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.827300 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.836500 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 43 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.732800 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.739700 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 44 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.998500 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 1.005000 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 45 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.734200 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.736800 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 46 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.858400 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.868200 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 47 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.778800 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.785000 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 48 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.633600 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.639300 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 49 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.787200 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.792300 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 50 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 950.735500 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 950.746300 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 51 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.661200 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.684600 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 52 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.931500 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.932300 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 53 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.704200 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.705300 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 54 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.813800 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.820300 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 55 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.946600 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.958900 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 56 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.732600 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.736300 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 57 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.765100 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.775900 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 58 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.626700 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.629400 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 59 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.732300 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.785600 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 60 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.754600 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.774800 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 61 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.984200 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 1.000500 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 62 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.723300 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.747800 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 63 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 1.065300 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 1.100100 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 64 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.671900 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.679000 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 65 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.710300 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.727600 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 66 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.768700 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.773600 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 67 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.688100 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.698900 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 68 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.818300 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 1.047300 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 69 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.690600 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.707700 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 70 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.985000 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.988300 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 71 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.772100 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.787400 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 72 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.857800 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.860300 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 73 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.863800 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.867900 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 74 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.658000 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.661800 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 75 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.904400 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 1.013600 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 76 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.684800 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.698300 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 77 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.948100 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.962500 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 78 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.653600 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.662200 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 79 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.595200 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.596500 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 80 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.986600 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 1.016000 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 81 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.688500 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.689500 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 82 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.768500 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.792400 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 83 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.670400 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 0.698600 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 84 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.987000 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 1.016700 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 85 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 950.732300 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 950.734300 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 86 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 1.391100 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 1.399800 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 87 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 1.104700 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 1.153600 ms, File size: 24146 bytes, Method: mmap
+
+input_val: 1 iterate: 88 method: m2m
+
+1 ./input/sample_input_1 ./output/sample_output_1_mmap mmap mmap 127.0.0.1 m2m
+Transmission time(Master): 0.698600 ms, File size: 24146 bytes, Method: mmap
+Transmission time(Slave): 

@@ -1,0 +1,1 @@
+cmd_/home/r08922164/Documents/OS_final/Download/test_3/ksocket/ksocket.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/r08922164/Documents/OS_final/Download/test_3/ksocket/ksocket.ko /home/r08922164/Documents/OS_final/Download/test_3/ksocket/ksocket.o /home/r08922164/Documents/OS_final/Download/test_3/ksocket/ksocket.mod.o ;  true

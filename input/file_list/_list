@@ -1,0 +1,14 @@
+clean.sh
+compile.sh
+diff.sh
+input
+ksocket
+master_device
+output
+result.tar
+run.sh
+script_temp
+slave_device
+start.sh
+temp
+user_program
